@@ -1,6 +1,6 @@
-####欢迎ŤToMyw ^网站！
+####Welcome To My Website!
 
-You can use the [editor on GitHub](https://github.com/flyzeric/yw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+一个人一条船。。。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
